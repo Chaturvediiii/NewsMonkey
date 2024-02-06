@@ -9,7 +9,7 @@
 
 # NewsHub Website
 
-Welcome to NewsHub, a React and Bootstrap-powered web application that provides the latest news in sports, technology, science, entertainment, health, and business. Listen to news updates in English for a convenient and accessible experience.
+Welcome to NewsMonkey, a React and Bootstrap-powered web application that provides the latest news in sports, technology, science, entertainment, health, and business. Listen to news updates in English for a convenient and accessible experience.
 
 ## Features
 
@@ -20,7 +20,7 @@ Welcome to NewsHub, a React and Bootstrap-powered web application that provides 
 
 ## Getting Started
 
-To get started with StockTracker, follow these steps:
+To get started with NewsMonkey, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Chaturvediiii/NewsMonkey.git`
 2. Navigate to the project directory: `cd NewsMonkey`
