@@ -52,3 +52,10 @@ If you'd like to contribute to StockTracker, follow these steps:
 ## Acknowledgments
 Bootstrap
 News API
+
+## Note 
+For some reason the NEWSAPI works only on the localhost. Below is the snapshot from my NewsMonkey website.
+![SnapShot](public\Snapshot.png)
+
+
+
