@@ -5,7 +5,6 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
--[Acknowledgments] (#acknowledgments)
 
 # NewsMonkey Website
 
