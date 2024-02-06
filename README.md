@@ -7,7 +7,7 @@
 - [Contributing](#contributing)
 -[Acknowledgments] (#acknowledgments)
 
-# NewsHub Website
+# NewsMonkey Website
 
 Welcome to NewsMonkey, a React and Bootstrap-powered web application that provides the latest news in sports, technology, science, entertainment, health, and business. Listen to news updates in English for a convenient and accessible experience.
 
